@@ -1,0 +1,17 @@
+.cont {
+       display:flex;
+       margin:60px;
+       padding:50px;
+       
+
+}
+div {text-align: center;}
+.place-container{padding:40px; 
+       margin:8px;
+
+}
+.animal-container{padding:40px;
+margin:8px}
+.car-container{padding:40px;
+       margin:8px;
+}
